@@ -1,0 +1,4 @@
+text
+pyTelegramBotAPI==4.20.0
+yfinance==0.2.40
+pandas==2.2.0
